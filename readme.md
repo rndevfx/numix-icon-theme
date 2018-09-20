@@ -5,12 +5,13 @@ Numix is the official icon theme from the [Numix Project](http://numixproject.or
 If using this with one of our app icon themes (like [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle)) make sure you install both parts using the same method. This makes sure that the panel icons keep working as intended.
 
 ### Distro Packages
-If you use Fedora, Debian, Ubuntu, or any of their derivatives then you're sorted! Numix is available from the official repositories.
+If you use Fedora, Debian, Ubuntu, Gentoo or any of their derivatives then you're sorted! Numix is available from the official repositories.
 
 |Distro|Install Command/Links|
 |:----:|:----:|
 |![fedora][fedora]|`sudo dnf install numix-icon-theme`|
 |![debian][debian] &nbsp;![ubuntu][ubuntu]|`sudo apt install numix-icon-theme`|
+|![gentoo][gentoo]|`emerge x11-themes/numix-icon-theme`|
 
 ### Nightly Packages
 If you use Ubuntu or any of its derivatives (including Mint and elementary OS) you can use our Numix PPA to get the very latest version of the theme. Fire up a Terminal and run the following:
